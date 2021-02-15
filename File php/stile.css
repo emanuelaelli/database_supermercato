@@ -1,0 +1,22 @@
+table { 
+    text-align: center;
+    position: static;
+}
+
+td {
+    padding: 0.5em;
+}
+
+table, td {
+    border: 0.2em solid #E1E100;
+    border-collapse: collapse;
+}
+
+table, tr {
+    border: 0.2em solid #E1E100;
+    border-collapse: collapse;
+}
+
+h1,h3 { 
+    text-decoration-color: #E1E100;
+}
